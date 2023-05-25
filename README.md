@@ -5,9 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardika-spec-610&label=Profile%20views&color=0e75b6&style=flat" alt="hardikamoradiya" /> </p>
 
-- 🌱 I’m currently learning **Node.js and backend development**
+- 🌱 **I am currently improving my skills**
 
-- 💬 Ask me about **react, redux, responsive web development**
+- 💬 Ask me about **react, redux, databases(MongoDB,PostgreSQL) responsive web development**
+
+- 🖥️ Full-stack developer trainee at **EPICODE**
 
 - 📫 How to reach me **hardika.moradiya@web.de**
 
