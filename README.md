@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardika-spec-610&label=Profile%20views&color=0e75b6&style=flat" alt="hardikamoradiya" /> </p>
 
-- 🌱 **I am currently improving my skills**
+- 🌱 **I am currently improving my skills(learning Angular)**
 
 - 💬 Ask me about **react, redux, databases(MongoDB,PostgreSQL) responsive web development**
 
