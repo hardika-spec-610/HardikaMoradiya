@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hardika Moradiya</h1>
-<h3 align="center">I'm a Front-end Developer living in Bielefeld, Germany</h3>
+<h3 align="center">I'm a Front-end Developer living in Forchheim, Germany</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" />
 
